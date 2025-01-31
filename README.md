@@ -1,6 +1,7 @@
 # Pandemonium-Bot
 # ⚠ Pandemonium.exe
 > **Use Vpn**
+
 > Instala Visual Studio Code y sus dependencias
 - pip install discord.py
 - pip install aiohttp
